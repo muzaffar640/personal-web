@@ -1,0 +1,104 @@
+ body{
+     margin:0;
+     text-align: center;
+     font-family: 'Vollkorn', serif;
+ }
+
+ h1{
+     margin-top: 0;
+     color: #46cdcf;
+     font-size: 4rem;
+     font-family: 'Rock Salt', cursive;
+ }
+
+ h2{
+    color: #46cdcf;
+    font-family: 'Questrial', sans-serif;
+}
+
+h3{
+    color: #46cdcf;
+    font-family: 'Questrial', sans-serif;
+}
+
+P{
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #e3fdfd;
+    position: relative;
+    padding-top: 100px;    
+}
+
+.middle-container{
+    margin:100px 0;
+}
+
+.bottom-container{
+    background-color: #3c9d9b;
+    padding: 50px 0 10px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+hr{
+    border: dotted  #46cdcf 6px;
+    border-bottom:none;
+    width:5%;
+    margin:100px auto;
+}
+
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.code-image{
+    width: 250px;
+    height:150px;
+    float:left;
+    margin-right:30px;
+
+}
+
+.watching-movie-img{
+    width: 250px;
+    height:150px;
+    float:right;
+    margin-right: 30px;
+}
+
+.btn{
+    padding: 7px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #3c9d9b;
+    border: none;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: #52de97;
+}
+
+.contact-massage{
+    width: 50%;
+    margin: 40px auto 50px;
+}
